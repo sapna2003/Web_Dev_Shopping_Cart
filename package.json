@@ -29,5 +29,14 @@
     "sanitize-html": "^2.6.0",
     "uuid": "^8.3.2"
   },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sapna2003/web_dev_shopping_cart.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sapna2003/web_dev_shopping_cart/issues"
+  },
+  "homepage": "https://github.com/sapna2003/web_dev_shopping_cart#readme",
   "description": ""
 }
